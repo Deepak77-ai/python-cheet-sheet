@@ -9,7 +9,7 @@ data structures
   - Sets
   - Tuples
   - Strings
-# Built-in Functions
+Built-in Functions
 
 
 # Basics
