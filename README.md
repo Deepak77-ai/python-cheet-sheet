@@ -2,6 +2,7 @@
 A Cheat Sheet 📜 to revise Python syntax in less time. Particularly useful for solving Data Structure or a quick overview before an interview.
 
 # Table of Contents
+- Basics
 - operators
 - data structures
   - Lists
