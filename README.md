@@ -15,7 +15,7 @@ A Cheat Sheet 📜 to revise Python syntax in less time. Particularly useful for
 
 # Basics
 # operators
-<img width="796" height="345" alt="image" src="https://github.com/user-attachments/assets/79d112db-ceda-48ae-bc96-2e89eeb437ef" />
+<img width="1024" height="444" alt="image" src="https://github.com/user-attachments/assets/d87d9bb8-f412-4011-8c68-8646ee61b1e3" />
 
 # Operator Precedence
 <img width="663" height="596" alt="image" src="https://github.com/user-attachments/assets/4bdc7c5b-afde-4374-8ba0-d7ac2fc0a110" />
